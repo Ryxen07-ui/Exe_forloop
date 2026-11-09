@@ -58,6 +58,23 @@
 # for row in range (1, 4):
 #     print("#" *  (2*row))
 
-for row in range (1,7):
-    print("#" * (3*row))
-    
+# for row in range (1,7):
+#     print("  #" * (3*row))
+
+# adj = ["red", "Big", "tasty"]
+# fruit = ["Green Apple", "Mango", "Guava", "Cherry"]
+# for x in fruit:
+#     for y in adj:
+#         if x == "Green Apple":
+#             continue
+#         print(x,y)
+
+# height = 7
+# for row in range (1, height+1):
+#     spaces = height-row
+#     stars = 2*row-1
+#     print(" "*spaces+"*"*stars)
+
+# for row in range (1, 4):
+#     print("#" *  (2*row))
+
